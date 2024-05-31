@@ -10,4 +10,4 @@ A simple calculator that possesses the wisdom of ancient sages, the precision of
 * css
 * javascript
 # Closer Look
-![Calculator](https://github.com/RobertxPearce/Calculator/assets/102342225/379c9660-e29a-4fb6-b3ad-21d60a019b70)
+![calculator-gif](https://github.com/RobertxPearce/Calculator/assets/102342225/e5f16762-e7e4-4098-ba56-0ed06f8876fa)
